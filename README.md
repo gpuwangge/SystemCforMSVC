@@ -30,6 +30,7 @@ If open with Visual Studio 2022, a window will pop up to ask for upgrading Platf
 The project should build fine  
 
 # System C Tutorial
-
+[SystemC Tutorial](https://github.com/gpuwangge/SystemCforMinGW/blob/main/Docs/SystemCTutorial.md )    
+[TLM Tutorial](https://github.com/gpuwangge/SystemCforMinGW/blob/main/Docs/TLMTutorial.md )   
 
 
